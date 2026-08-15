@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@theme {
+  --spacing-mContainer: 1320px; 
+    --color-headtop: #666666;
+    --font-Pop: "Poppins", sans-serif;
+
+}
